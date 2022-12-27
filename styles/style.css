@@ -1,0 +1,48 @@
+body{
+    background-color: #F3F1FF;
+}
+
+.navbar ul{
+    display: flex;
+    float: inline-end;
+}
+
+.navbar img{
+    width: 40px
+}
+
+.mid-container{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.mid-container h3{
+    font-weight: 600;
+    color: blueviolet;
+}
+
+.top-players-row{
+    border-bottom: 2px solid rgb(136, 136, 136);
+}
+
+.player img{
+    width: 56px;
+}
+
+.mid-separation{
+    background-color: red;
+    border-radius: 1px solid red;
+}
+
+.blog img{
+    width: 150px;
+}
+
+.blog div h6{
+    font-weight: 600;
+}
+.blog div p{
+    color: rgb(149, 71, 223);
+    font-size: 0.9em;
+    font-weight: 400;
+}
